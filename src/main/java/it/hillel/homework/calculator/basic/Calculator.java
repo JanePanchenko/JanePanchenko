@@ -1,3 +1,5 @@
+package it.hillel.homework.calculator.basic;
+
 import java.util.Arrays;
 
 public class Calculator {
