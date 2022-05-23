@@ -1,3 +1,5 @@
+package it.hillel.homework.array;
+
 import java.util.Scanner;
 
 public class ConsoleController {

@@ -1,5 +1,6 @@
+package it.hillel.homework.array;
 
-public class Demo {
+public class ArrayDemo {
 
     public static void main(String[] args) {
         ConsoleController consoleController = new ConsoleController();
